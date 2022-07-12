@@ -17,4 +17,13 @@ Now install the required python packages using below command:
 
 ``` pip install -r requirements.txt ```
 
+Install [GOOGLE Tessaract OCR](https://github.com/tesseract-ocr/tesseract) and add the path in your system variables. 
+
+or you can set the path on windows as below:
+
+``` set PATH=%PATH%;C:\Program Files\Tesseract-OCR\tesseract.exe ```
+
+Additional info regarding pytesseract can be found at pytesseract's [GitHub page](https://github.com/madmaze/pytesseract).
+
+
 
