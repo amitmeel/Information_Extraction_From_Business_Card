@@ -9,4 +9,4 @@ notebook
 jupyterlab
 pillow
 spacy
-
+pytesseract
