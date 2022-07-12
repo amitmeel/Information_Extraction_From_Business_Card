@@ -25,5 +25,13 @@ or you can set the path on windows as below:
 
 Additional info regarding pytesseract can be found at pytesseract's [GitHub page](https://github.com/madmaze/pytesseract).
 
+We will also use pretrained model of [spacy](https://spacy.io/usage) to extract the information from the business card. you need to download the pretrained model from the link below.
+
+``` https://spacy.io/models/en_core_web_sm ```
+
+Or you can directly download the model using below coommand:
+    
+``` python -m spacy download en_core_web_sm ```
+
 
 
