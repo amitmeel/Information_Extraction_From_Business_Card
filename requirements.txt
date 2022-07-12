@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+matplotlib
+opencv-python
+jupyter
+notebook
+jupyterlab
+pillow
+spacy
+
